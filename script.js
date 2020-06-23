@@ -32,12 +32,25 @@ dataList.map(i => {
 
     let cat1 = document.createElement('img');
     cat1.src = `./assets/${i.category_1}.svg`;
+    cat1.className = "cat-icon"
     cat1.alt = `${i.category_1}`;
+
+    let cat2 = document.createElement('img');
+    cat2.src = `./assets/${i.category_2}.svg`;
+    cat2.className = "cat-icon"
+    cat2.alt = `${i.category_2}`;
+
+    let cat3 = document.createElement('img');
+    cat3.src = `./assets/${i.category_3}.svg`;
+    cat3.className = "cat-icon"
+    cat3.alt = `${i.category_3}`;
     
     let cardHead = document.createElement('div');
     cardHead.className = "row";
     cardHead.appendChild(cat1);
-    cardHead.appendChild(cardTitle);
+    cardHead.appendChild(cat2);
+    cardHead.appendChild(cat3);
+    
 
 
     
@@ -46,15 +59,37 @@ dataList.map(i => {
     cardSubHead.className = "card-subtitle mb-5 text-muted"
     cardSubHead.textContent = i.description;
 
+    cardBody.appendChild(cardHead);
+    cardBody.appendChild(cardTitle);
+    cardBody.appendChild(cardSubHead);
+
+    if (i.contact_name){
+      let contact = document.createElement('p');
+      contact.textContent = `Contact: ${i.contact_name}`
+      cardBody.appendChild(contact);}
+
+    if (i.contact_number){
+      let phone = document.createElement('p');
+      phone.textContent = `Call: ${i.contact_number}`
+      cardBody.appendChild(phone);}
+
+    if (i.contact_email){
+      let email = document.createElement('p');
+      email.textContent = `Email: ${i.contact_email}`
+      cardBody.appendChild(email);}
+
+    if (i.url){
     let cardButton = document.createElement('a');
     cardButton.href = i.url;
     cardButton.className = "btn btn-primary mb-3";
     cardButton.textContent = "Visit resource"
     cardButton.target = "_blank";
+    cardBody.appendChild(cardButton);}
 
-    cardBody.appendChild(cardHead);
-    cardBody.appendChild(cardSubHead);
-    cardBody.appendChild(cardButton);
+    
+
+    
+    
 
     card.appendChild(cardBody);
 
