@@ -51,15 +51,17 @@ painter = (dataset) => {dataset.map(i => {
   cat1.className = "cat-icon"
   cat1.alt = `${i.category_1}`;
 
+  if (i.category2){
   let cat2 = document.createElement('img');
   cat2.src = `./assets/${i.category_2}.svg`;
   cat2.className = "cat-icon"
-  cat2.alt = `${i.category_2}`;
+  cat2.alt = `${i.category_2}`;}
 
+  if (i.category3){
   let cat3 = document.createElement('img');
   cat3.src = `./assets/${i.category_3}.svg`;
   cat3.className = "cat-icon"
-  cat3.alt = `${i.category_3}`;
+  cat3.alt = `${i.category_3}`;}
   
   let cardHead = document.createElement('div');
   cardHead.className = "row";
