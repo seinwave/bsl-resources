@@ -115,7 +115,6 @@ search.addEventListener('keyup', function () {
   let resourceList = document.getElementById('resource-list');
   resourceList.innerHTML = "";
   searchText = search.value.toString().split(' ');
-  console.log(searchText);
   return filteredPaint(dataList, searchText);
 });
 
