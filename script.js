@@ -64,8 +64,10 @@ painter = (dataset) => {dataset.map(i => {
   let cardHead = document.createElement('div');
   cardHead.className = "row";
   cardHead.appendChild(cat1);
-  cardHead.appendChild(cat2);
-  cardHead.appendChild(cat3);
+  if(cat2.alt != ""){
+    cardHead.appendChild(cat2);}
+  if(cat3.alt != ""){
+    cardHead.appendChild(cat3);}
   
   let cardSubHead = document.createElement('h6');
   cardSubHead.className = "card-subtitle mb-5 text-muted"
