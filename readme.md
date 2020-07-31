@@ -52,4 +52,4 @@ You should donate to them!
 
 # The End
 
-Enjoy the Nuggulator!
+Let me know if you have any comments / suggestions!
