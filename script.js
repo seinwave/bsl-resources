@@ -8,8 +8,8 @@ function include(file) {
 } 
 include('./data/data.js')
 
+// Initializing variables
 const search = document.getElementById("search-bar");
-
 let dataList = [...data]
 
 
@@ -29,7 +29,7 @@ filterer = (dataset, a) => { return dataset.filter(i => {
 })
 }
 
-// Rendering our cards
+// Rendering cards
 painter = (dataset) => {dataset.map(i => {
   let fragment = document.createDocumentFragment();
   let column = document.createElement('div')
