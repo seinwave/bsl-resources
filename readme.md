@@ -6,7 +6,7 @@ A directory of civic resources for New Yorkers who need help.
 
 Derived by data from the [Brooklyn Shows Love](http://www.equalityforflatbush.org/brooklyn-shows-love-mutual-aid-project/) crew.
 
-Try it out [here.](seinwave.github.io/bsl-resources)
+Try it out [here.](https://seinwave.github.io/bsl-resources)
 
 
 ## Rationale
@@ -58,8 +58,8 @@ If you want to work with a local copy, doing so couldn't be simpler. Just clone 
 
 If, however, you prefer to just monkey around with the data, I have you covered.
 
-- As a <a href = "https://github.com/seinwave/bsl-resources/blob/ad7493184a8a3286922473f4c7468283ed94a2c5/data/nyc-resources.json">JSON</a>
-- AS a <a href = "data/nyc-resources.csv">CSV</a>csv
+- As a <a href = "https://github.com/seinwave/bsl-resources/blob/ad7493184a8a3286922473f4c7468283ed94a2c5/data/nyc-resources.json">JSON.</a>
+- AS a <a href = "data/nyc-resources.csv">CSV.</a>
 
 All I ask is that you please attribute the data to Brooklyn Shows Love.
 
