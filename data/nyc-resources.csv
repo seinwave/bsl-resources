@@ -1,0 +1,327 @@
+index,title,service_area,category_1,category_2,category_3,contact_name,contact_number,contact_email,address,url,description
+0,Absentee Ballots for June 23rd Primary Voting,New York State,political,voting,activism,,,,,https://nycabsentee.com/,Absentee ballot request form
+1,COVID-19 Testing,New York State,covid,testing,,,,,,https://coronavirus.health.ny.gov/covid-19-testing,NY State COVID-19 testing info
+2,COVID-19 Food Assistance Resources,NYC,covid,food,,,,,,https://www1.nyc.gov/assets/dsny/contact/services/COVID-19FoodAssistance.shtml,"Food assistance for NYC residents affected by COVID-19 (SNAP, food pantries, cash assistance, etc)"
+3,COVID-19 Food Delivery Request,NYC,covid,food,,,,,,https://cv19engagementportal.cityofnewyork.us/#/display/5e7555117ad6750216160409,Food delivery service for NYC residents affected by COVID-19
+4,"Childcare for First Responders, Healthcare Providers, or Transit Workers",NYC,childcare,,,,,,,https://docs.google.com/forms/d/e/1FAIpQLSdDNFMOezuG9mCu99utf3dkloTpdEhzBB1ancwlaeT3ny7uEQ/viewform,Provided by the department of education — childcare at a site near your home.
+5,Eviction Moratorium,New York State,legal,housing,,Met Council Tenants' Rights Hotline,(212) 979-0611,,,https://www.righttocounselnyc.org/moratorium_faq,"Evictions have been paused until August 20th. These resources can help if your landlord is harassing you, or attempting to evict you"
+6,Met Council Tenants Rights Hotline,NYC,legal,housing,,Met Council Tenants' Rights Hotline,(212) 979-0611,,,https://www.metcouncilonhousing.org/program/tenants-rights-hotline/,Hotline to call if your landlord is harassing you or if you have questions about your rights as a tenant.
+7,Free Meals at NYC Schools,NYC,covid,food,,,311,,,https://www.schools.nyc.gov/school-life/food/free-meals,"No cost, three meals a day for any New Yorker — 7:30a to 1:30p, Monday to Friday. Locations here: http://bit.ly/nycschoolfood."
+8,Meal Deliveries,NYC,covid,food,,,311,,,https://cv19engagementportal.cityofnewyork.us/?fbclid=IwAR3ZtSlNmJqJW2te2KaR4mBFE3XpK380DLGJxkRkMhbkPWxhJ1r-lEsAukE#/display/5e7555117ad6750216160409,No-cost meal deliveries for people who cannot leave their homes. Up to 8 meals each delivery. Orders will arrive within 2-3 days
+9,NYC Medical Hotline,NYC,covid,medical,advice,,1-844-NYC-4NYC,,,,"Hotline if you have questions about COVID-19, or think you may have symptoms. Talk to a medical provider at no cost, from 9a to 9p."
+10,NYC Employee Retention Grant Program,NYC,grants,jobs,financial-support,,,,,https://www1.nyc.gov/nycbusiness/article/nyc-employee-retention-grant-program,"Grant program for small businesses, to help them retain employees"
+11,NYC COVID textline,NYC,covid,advice,,,692692,,,,Text COVID to 692692 to receive updates on city resources and closures
+12,NYC schools updates,NYC,schools,covid,,,,,,https://www.schools.nyc.gov/?fbclid=IwAR0qFGYi9xX9oWy_QWWgW8wveyc20D1zuV_rBIktgi4Y4PWSq40TmijG2FQ,"For information about school re-openings, remote learning, etc"
+13,NYC schools COVID updates,NYC,schools,covid,,,,,,http://www.nysed.gov/coronavirus,Dedicated page for COVID-related school news (most recent updates here: http://www.nysed.gov/news/2020)
+14,NYC schools grading information,NYC,schools,covid,,,,,,https://www.schools.nyc.gov/about-us/news/announcements/contentdetails/2020/05/01/mayor-de-blasio-and-chancellor-carranza-announce-adjusted-k-12-citywide-grading-policy-for-2019-20-school-year,Information about grades for NYC students. No letter grades for elementary or middle-school students. High-school students still have grades. See the link for details. Exam requirements here: http://www.nysed.gov/news/2020/state-education-department-issues-guidance-graduation-and-course-requirement-changes-due
+15,Exams/Graduation Requirements,NYC,schools,covid,,,,,,http://www.nysed.gov/news/2020/state-education-department-issues-guidance-graduation-and-course-requirement-changes-due,Detailed exam and graduation requirements for NYC high-schoolers.
+16,Recovery House of Worship,Brooklyn,childcare,supplies,food,,718-501-0459,,,https://www.rhowbk.org/,"Distributes diapers and formula every Thursday, from 10a to 2p."
+17,HopeLine,NYC,childcare,supplies,food,Elisa,718-402-1212,,,https://thehopeline.org/services/diapers/,"Diaper / baby supplies to all NYC residents, by appointment only. (First come, first served). Call Elisa on Mondays, starting at 9:30a."
+18,Catholic Charities - Brooklyn Heights,Brooklyn,childcare,supplies,food,,(718) 522-1034,,"191 Joralemon Street, Brooklyn",https://catholiccharitiesny.org/,"Diapers, food, and baby formula (for single mothers)"
+19,Catholic Charities - Bay Ridge,Brooklyn,childcare,supplies,food,,(718) 253-4477,,"6823 5th Avenue, Brooklyn",https://catholiccharitiesny.org/,"Diapers, food, and baby formula (for single mothers)"
+20,Catholic Charities - Sheepshead Bay,Brooklyn,childcare,supplies,food,,(718) 769-8836,,"3730 Shore Parkway, Brooklyn",https://catholiccharitiesny.org/,"Diapers, food, and baby formula (for single mothers)"
+21,Catholic Charities - Staten Island,Staten Island,childcare,supplies,food,,(718) 447-6330,,"120 Anderson Avenue, Staten Island, NY",https://catholiccharitiesny.org/,"Diapers, food, and baby formula (for single mothers)"
+22,Jewish Community Center - Staten Island,Staten Island,childcare,supplies,food,,718-475-5242,,"1466 Manor Road, Staten Island, NY 10314.",https://www.sijcc.org/,"Diapers, food, baby formula, hygiene products. "
+23,Little Essentials,NYC,childcare,supplies,food,,646-850-3611,,,https://www.littleessentials.org/,"Support for children. Child-care supplies, including diapers and food. Offers a one-time emergency support package."
+24,IntegrateNYC,NYC,schools,covid,,,951-468-3478,,,https://www.integratenyc.org/covid19,Youth-led org fighting for equity in NYC schools. Various school / family resources in the link.
+25,NYC Coalition for Educational Justice,NYC,schools,covid,,,,,,https://www.nyccej.org/,Parent-led organization for equity in NYC schools. Parent survey here: https://docs.google.com/forms/d/e/1FAIpQLScAb6IdkQcbaaP8kFWXGVBWpoPRKLMacsSgBjvAVxUCnWvSeQ/viewform
+26,New York State Youth Leadership Council - List of Resources,New York State,undocumented-people,financial-support,food,,,,,https://docs.google.com/document/d/1qilwSmaqELoyPc9-a1ka82aXAq3HDlWvbYEzwsKNNL0/edit,"List of financial, food, educational, and health-related assistance — prioritizing undocumented people."
+27,Enrichment Center Enrollment Form,NYC,childcare,covid,,,,,,https://www.schools.nyc.gov/enrollment/enrollment-help/regional-enrichment-centers,"Enrollment form to receive childcare, if you are a first responder, healthcare provider, or transit worker. Open M-F, 7:30a to 6p. Enrollment form here: https://www.surveygizmo.com/s3/5518161/REC-Enrollment-Form"
+28,Workers Need Childcare,NYC,childcare,covid,,,,hello@workersneedchildcare.org,,https://www.workersneedchildcare.org/,"Volunteer network to provide childcare for parents who work in essential industries (grocery, utilities, mail, etc)"
+29,Guide to Federal Family & Medical Leave,National,legal,childcare,,,,,,https://www.uschamber.com/co/start/strategy/families-first-coronavirus-response-act-guide,The Families First Coronavirus Response Act has expanded Family and Medical Leave. Here you can find what the means for you.
+30,Hetrick-Martin Institute resource list,NYC,lgbtqi+,covid,,,,,,https://hmi.org/covid-19-resources/,"Large list of COVID-19-related resources, including food / housing / medical, internet, and more"
+31,Hetrick-Martin Institute remote programming,NYC,lgbtqi+,mental-health,,,,,,https://hmi.org/services/youth-services/hmi-youth-remote/,Various group therapy sessions for LGBTQ+ youth
+32,NYC Telehealth Providers,NYC,mental-health,,,,,,,https://cdn-blob-prd.azureedge.net/prd-pws/docs/default-source/default-document-library/mental-health-telehealth-contacts-for-covid-19.pdf,"Telehealth providers that accept various forms of insurance, offer sliding-scale billing"
+33,NYC Dept of Ed Remote Learning resources,NYC,schools,covid,,,,,,https://www.schools.nyc.gov/learn-at-home,List of remote-learning resources available to NYC parents
+34,NYC Dept of Ed Ipad Request form,NYC,education,learning,supplies,,,,,https://www.schools.nyc.gov/learn-at-home/ipad-distribution,Parents can receive a free iPad tablet — loaned until school resumes
+35,Amazing Educational Resources,National,education,learning,supplies,,,,,http://www.amazingeducationalresources.com/,Enormous list of free educational resources
+36,Harriet’s Tracks Resource Guide,NYC,schools,covids,supplies,,,,,https://docs.google.com/document/d/1RuLb76ZDWPPv2X-qKSpx6jRqqp2bVU28L-3wReOIA84/edit,List of varied educational events / resources. May not be updated.
+37,"Anti-oppressive, anti-racist homeschool curriculum ideas",National,education,learning,supplies,,,,,https://docs.google.com/document/d/1rBqt7UJ7U_8Nz0mnLgbRd3TsSgzoJ1gawefZPCNNmAY/mobilebasic?urp=gmail_link,List of curriculum / project ideas for anti-racist home-schooling. 
+38,Inclusive Story Time,National,education,learning,supplies,,,,,https://bookshop.org/shop/inclusivestorytime,eshop of picture books with radically inclusive messaging
+39,New York Public Library - Remote Learning Resources,NYC,education,learning,supplies,,,,,https://www.nypl.org/about/remote-resources/kids-and-teens,"Various remote learning resources, from NYPL"
+40,Brainfuse,NYC,education,learning,supplies,,,,,https://www.nypl.org/about/remote-resources/kids-and-teens/homework-help-brainfuse,"Free online tutoring programs / resources, produced in collabotation with NYPL"
+41,Brooklyn Public Library - Virtual Programming,Brooklyn,education,learning,supplies,,,,,https://www.bklynlibrary.org/event-series/Virtual-Programming,Virtual educational events hosted by Brooklyn Public Library
+42,Brooklyn Public Library - Remote Learning Resources,Brooklyn,education,learning,supplies,,,,,https://www.bklynlibrary.org/coronavirus,Remote learning resources compiled by BPL
+43,Queens Public Library - Virtual Resources for Parents,Queens,education,learning,supplies,,,,,https://www.queenslibrary.org/about-us/news-media/blog/2040,Remote learning resources compiled by QPL
+44,Plain Language Information on COVID-19 (in 11 languages),National,covid,advice,,,,,,https://selfadvocacyinfo.org/resource/plain-language-information-on-covid-19/,"COVID-19, in easy, accessible language (for people with development / intellectual disabilities)"
+45,Black Lives Matter - Week of Action Curriculum,National,education,learning,supplies,,,,,https://drive.google.com/drive/mobile/folders/1LGslwJwhXvpVnDgw0uC-n794l6EGzpuH?fbclid=IwAR3DgGDVWx3RkThMJbefRzuC7yICsacO6xX4t8rOd3GAKiZ2QQKoK5M1Tdg&usp=drive_open,Curriculum program designed to challenge racism and build racial equity
+46,Alvin Ailey American Dance Theater All Access,National,education,learning,supplies,,,,,https://www.aileyextension.com/keepdancing?_ga=2.85043996.402988996.1586548750-1512439318.1586548750,"Free online dance classes (hop-hop, west African, ballet, etc) and shows"
+47,Made in Brownsville - Virutal Studios,National,education,learning,supplies,,,,,https://madeinbrownsville.org/programs/virtual/,"Free tutorials in Adobe products — including Illustrator, InDesign, and After Aeffects"
+48,Adobe Cloud for Students - 2 Months Free,National,learning,jobs,,,,,,https://petapixel.com/2020/03/13/adobe-offers-students-free-at-home-access-to-creative-cloud-apps-amid-coronavirus-closures/,Students can get 2 months free of Adobe
+49,Scholastic Learn at Home,National,education,learning,supplies,,,,,https://classroommagazines.scholastic.com/support/learnathome.html,"Free online learning resources from Scholastic, the publisher"
+50,Bookflix,National,education,learning,supplies,,,,,https://bookflix.digital.scholastic.com/home?authCtx=U.794217314,"No-cost ebooks and activies, provided by Scholastic"
+51,Abolitionist Mutual Aid Fund,National,financial-support,abolition,incarcerated,,,,,https://www.paypal.com/pools/c/8npG1wcuiJ,Send commisary money to incarcerated people
+52,Brooklyn COVID-19 Response Fund,Brooklyn,financial-support,,,,,,,https://www.classy.org/give/276710/#!/donation/checkout,General purpose Brooklyn COVID relief fund
+53,BYP100 Black NYC COVID-19 Paypal,NYC,financial-support,poc,,,,,,https://tinyurl.com/NYCCOVIDDONATE,COVID relief fund for black people / people of color
+54,COVID Bail Out,NYC,financial-support,abolition,,,,,,https://www.covidbailout.org/,Bail-out fund to help incarcerated people escape the dangers of incarceration during COVID-19
+55,East Brooklyn Cash Assistance,Brooklyn,financial-support,,,,,,,https://www.brooklyngives.org/organizations/made-in-brownsville-inc?utm_medium=email&utm_source=getresponse&utm_content=A+gift+to+you+celebrating+7+years+of+MiB+and+help+us+start+a+COVID%E2%80%9319+Relief+Fund+for+Youth+in+East+Brooklyn&utm_campaign=Made+In+Brownsville,Cash assistance for freelance / creative workers in east Brooklyn
+56,COVID-19 Dance Relief Fund,NYC,financial-support,,,,,,,https://www.dance.nyc/programs/funds/CoronavirusDanceReliefFund,Relief fund for dance workers
+57,Emergency Relief Funds for LGBTQ+ Caribbeans in NYC,NYC,lgbtqi+,financial-support,,,,,,https://www.gofundme.com/f/emergency-relief-fund-for-lgbtq-caribbeans?teamInvite=bfGVN9aZlb3fp7eV7r1hYsUONFCt4m5qZI4dHROsNnZKqZDR8kWlKLXAS7qvkmrC&utm_medium=email&utm_source=product&utm_campaign=p_email%2Bteaminviteemail,Relief fund for Carribean LGBTQ+ people
+58,Emergency Fund for Undocumented Youth and Families GoFundMe,NYC,financial-support,undocumented-people,,,,,,https://charity.gofundme.com/o/en/campaign/emergency-funds-for-undocumented-youth-and-families-during-covid-19/jenniferqueenan?modified=1,Emergency funds for immigrant / undocumented people
+59,Financial Solidarity for Formerly Incarcerated People and Their Families (NYC) GoFundMe,NYC,financial-support,abolition,,,,,,https://www.gofundme.com/f/financial-solidarity-mutual-aid?utm_medium=copy_link&utm_source=customer&utm_campaign=p_lico+share-sheet,Relief fund for formerly incarcerated people
+60,Flushing Workers Center Fund Drive,Queens,financial-support,,,,,,,https://www.gofundme.com/f/flushing-workers-center?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet&fbclid=IwAR3TjZ61z_MLtqhPKW0fRvxa4RtFh0EAtaeNAPvf1C99bODGvbzqqNAXeVI,"Relief fund for essential  workers in Flushing, focused on procuring protective equipments and supporting workers who lost their jobs"
+61,FOR THE GWORLS: MEDICAL FUND,NYC,financial-support,poc,lgbtqi+,,,ftgmedical@gmail.com,,https://docs.google.com/forms/d/e/1FAIpQLSeQz2h3H5lEvPikO5DVcn4K1wAULxgbkgDvqxLAD595Px88jA/viewform,A fund specifically for black trans people to pay for medication / transport costs related to prescriptions
+62,"House Homeless Trans Folks, Protect From COVID-19",NYC,financial-support,poc,lgbtqi+,,,,,https://www.gofundme.com/f/help-house-lgbtq-young-adults-during-covid19,Fund to purchase hotel rooms for trans people recently released from Rikers Island
+63,Laundry Workers Center Emergency Response Fund,NYC,financial-support,workers,,,,,,https://laundryworkerscenter.nationbuilder.com/covid_19_emergency_response_fund,Emergency response fund for laundry workers
+64,Low-Income NYC Artist/Freelancer Relief Fund organized by Shawn Escarciga,NYC,financial-support,workers,,,,,,https://www.gofundme.com/f/nyc-lowincome-artistfreelancer-relief-fund?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet,Relief fund for low-income artists / freelance creatives in NYC
+65,Movimiento’s COVID-19 Emergency Fund for Immigrants in El Barrio,NYC,financial-support,poc,,,,,,https://ioby.org/project/movimientos-covid-19-emergency-fund-immigrants-el-barrio,Emergency relief fund for immigrants in NYC
+66,NYC Shut It Down,NYC,food,poc,,,,,,https://www.gofundme.com/f/nycshutitdown,Hot meals and groceries for Black and Brown people in all boroughs (except Staten Island)
+67,National Domestic Workers Alliance,National,financial-support,workers,,,,,,https://domesticworkers.org/coronavirus-care-fund,Relief fund for domestic workers (who have participated in National Domestic Workers Alliance activities)
+68,Relief for Sex Workers in New York COVID-19 GoFundMe,NYC,financial-support,workers,,,,,,https://www.gofundme.com/f/z6w8v5?utm_source=customer&utm_medium=copy_link&utm_campaign=m_pd%20share-sheet&fbclid=IwAR0eU6TV6AYZlnxoSMXy2hZidL-TMrtH_MS54wPj8jzuetzRJR8nofBw5xw,Relief fund for sex workers in NYC. (More about the project here: https://www.swopbrooklyn.org/)
+69,Restaurant Workers COVID19 Crisis Relief Fund Donation Page,NYC,financial-support,workers,,,,,,https://secure.restaurantworkerscf.org/np/clients/restaurantworkerscf/donation.jsp?forwardedFromSecureDomain=1&campaign=2&&test=true,Relief fund for restaurant workers
+70,Selis Manor COVID-19 Solidarity Aid,NYC,financial-support,disabled-people,,,,,,https://www.gofundme.com/f/selis-manor-solidarity-aid?fbclid=IwAR16SA5lD5QC1DL0t2WDIKvwnQUpS59tigqyW70FY8c5i9806GlbuM-LdFc,"Selis Manor houses blind and visually-impaird people and their families. This is a relief fund to support Selis Manor's operations, and protect these especially vulnerable people."
+71,Abolition Action Group Grocery Fund,NYC,financial-support,abolition,,,,,,https://docs.google.com/forms/d/e/1FAIpQLSesOcVqR-yySnVRO0w6MUp6AVKE1Z-nz2H9r7Iigw49wxaidg/viewform,Grocery fund organized by the NYC chapter of the Democratic Socialists of America. 
+72,Astoria Mutual Aid Network,Queens,financial-support,food,medicine,,646-397-8383,,,https://www.astoriamutualaid.com/,Fund for Astoria community members
+73,Bartender Emergency Assistance Fund,NYC,financial-support,workers,,,,,,https://www.usbgfoundation.org/beap,Emergency fund for bartenders / alcohol servers
+74,Bed-Stuy Strong,Brooklyn,financial-support,food,medicine,,(732) 771-9663,bedstuystrong2020@gmail.com,,https://bedstuystrong.com/,Emergenc fund for Bed-Stuy community members
+75,BCF front-line service grants,Brooklyn,grants,,,,,COVID19@brooklyncommunityfoundation.org,,https://www.brooklyncommunityfoundation.org/COVID-19-Grants,Grants for front-line service organizations in Brooklyn (open call for grant applications: https://brooklyncommunityfoundation.submittable.com/submit/1749cf7f-8bf6-49bc-922b-e74eaf522945/brooklyn-covid-19-response-fund-open-call)
+76,#BrooklynShowsLove Mutual Aid Project :,Brooklyn,financial-support,food,medicine,,(646) 820-6039,,,http://www.equalityforflatbush.org/brooklyn-shows-love-mutual-aid-project/,"Information about BrooklynShowsLove, a mutual aid project based in Brooklyn"
+77,Bronx Mutual Aid,Bronx,financial-support,food,medicine,,,,,https://docs.google.com/forms/d/e/1FAIpQLSd5guY-yeoepEnnTcTxuaatPnatSuoaDHSCU1vxsgXqChIP6A/viewform,Delivery of groceries / other resources for Bronx community members
+78,Brownsville Mutual Aid,Brooklyn,financial-support,food,medicine,,,,,https://airtable.com/shrbWHudhAid400Y9,Delivery of groceries / other resources for Brownsville community members
+79,Bushwick Mutual Aid,Brooklyn,financial-support,food,medicine,,(929) 277-9016,bushwickmutualaid@gmail.com,,https://docs.google.com/forms/d/e/1FAIpQLSeSGQM_rYrBRfZS6coHuYIwraa6ivs14Lp7d7ZPf6otSG7alw/viewform,Delivery of groceries / other resources for Bushwick community members
+80,BYP100 Black NYC COVID-19 Need Form,NYC,financial-support,poc,,,,nycblackaid@gmail.com,,http://tinyurl.com/nyccovid19need,Community support for black people in NYC
+81,Commonpoint Queens Emergency Assistance ,Queens,financial-support,food,medicine,,(929) 255-6060,,,https://www.commonpointqueens.org/commonpoint-queens-emergency-assistance/?fbclid=IwAR0pcbrhf0oe_OVD893Caf8C_hOgHqAT74JomEs6BEtr1gO62ex5FbZ940M,"Meal deliveries, resource guidance, benefit application assistance for Queens residents. Call M-F, 9a-5p."
+82,Corona Metro,NYC,financial-support,workers,,,,,,http://coronametro.com,Request or donate metrocards
+83,COVID Worker Care Network NYC,NYC,financial-support,workers,,,,,,https://www.nyccovidcare.org/request,Mental / spiritual health for workers affected by COVID-19
+84,COVID-19 Dance Relief fund,NYC,financial-support,workers,arts,,,,,https://www.dance.nyc/programs/funds/CoronavirusDanceReliefFund,Relief fund for dancers
+85,Disability Justice Mutual Aid Fund,NYC,financial-support,disabled-people,,,,,,https://docs.google.com/forms/d/e/1FAIpQLSfyjbOCGNJGUEXPefDxh4UrDuxdXjRCtv8dhbGMznvHd4E18g/viewform,Short-term fund for disabled BLM / black liberation organizers
+86,Foundation For Contemporary Arts Emergency Grant,NYC,financial-support,workers,arts,,,,,https://www.foundationforcontemporaryarts.org/grants/emergency-grants-covid-19-fund,Emergency grants of between $250 and $2500 for visual / performing artists in NYC
+87,Freelance Artist Resource COVID-19,National,financial-support,workers,arts,,,,,https://covid19freelanceartistresource.wordpress.com/?fbclid=IwAR0WWNQy2M1oPjEJ2W3t3Nu97QMfj8xF8M3HWSsvjh1ow1EWDcV-x9OxBhY,Various resources for freelance artists affected by COVID-19
+88,IntegrateNYC Youth Aid Fund,NYC,financial-support,food,medicine,,,,,https://secure.givelively.org/donate/integratenyc-inc/youth-aid-fund,
+89,LES Mutual Aid,Manhattan,financial-support,food,medicine,,,lesmutualaid@gmail.com,,https://docs.google.com/forms/d/e/1FAIpQLSdlxH0_kWe6-LZMLsT69XRMgTg-pwK970xwia5TkNWT2TCgRQ/viewform,Mutual aid for lower east-side community members
+90,Mutual Aid NYC Neighborhood Groups,NYC,financial-support,food,medicine,,,,,https://mutualaid.nyc/groups/,"Directory of mutual-aid groups in NYC, by neighborhood"
+91,NATIONAL DOMESTIC WORKERS ALLIANCE,National,financial-support,workers,,,,,,https://domesticworkers.org/coronavirus-care-fund,Domestic workers who have participated in NDWA may be eligible for one-time emergency assistance of up to $400
+92,New York Foundation of the Arts,NYC,financial-support,workers,,,,,,https://www.nyfa.org/Content/Show/Emergency%20Grants,List of emergency grants to serve various arts orgs
+93,North Brooklyn Mutual Aid,Brooklyn,financial-support,food,medicine,,(646) 389-6016,greenpointhelpers@gmail.com,,https://northbrooklynmutualaid.org/,"Mutual aid group in Greenpoint & Williamsburg. Support includes groveries, petcare, laundry. Need form here: https://airtable.com/shrc9uY9MRGzWzKau"
+94,Ocean Hill / Brownsville Mutual Aid Network,Brooklyn,financial-support,food,medicine,,,,,https://www.gofundme.com/f/ocean-hill-brownsville-mutual-aid-network?utm_source=twitter&utm_medium=social&utm_campaign=m_pd+share-sheet,Grocery delivery for Ocean Hill / Brownsville community members
+95,One Fair Wage Emergency Funds for Tipped and Service Workers,National,financial-support,workers,,,,,,https://domesticworkers.org/coronavirus-care-fund,"Cash assistance for restaurant workers, delivery workers, and postal delivery workers"
+96,Queens Mutual Aid Network,Queens,financial-support,food,medicine,,,,,https://docs.google.com/forms/d/e/1FAIpQLSc4JI-xFE3qTxC07Tz762fEe4yNzpDo7eAsHkFo-jqnKZo1Bg/viewform?fbclid=IwAR05pQ37eKvlq1P3Nu2mv_32zzYCC3g7_gIMYSdKiALw3qaJYHFCMKSuYUE,"Free groceries / medicine delivery, legal advice, other resources for Queens community members"
+97,Radical Muslim Mutual Aid COVID-19 Redistribution Fund,NYC,financial-support,food,medicine,,,,,https://masjidalrabia.org/mutualaid,"Muslim LGBTQI+ org, providing relief for Muslims affected by COVID-19"
+98,Relief Fund for LGBTQI+ BIPOC Folks,NYC,financial-support,lgbtqi+,poc,,,,,https://www.gofundme.com/f/covid19-relief-fund-for-lgbtqi-bipoc-folks?utm_source=customer&utm_medium=email&utm_campaign=p_cp+share-sheet,Relief fund for LGBTQI+ / black / BPOC folks
+99,Relief for Sex Workers in New York COVID-19,NYC,financial-support,workers,,,,brooklynswop@protonmail.com,,https://www.gofundme.com/f/z6w8v5,Relief fund for sex workers 
+100,Ridgewood Mutual Aid Network and Fundraiser,Queens,financial-support,food,medicine,,(929) 251-5044,ridgewoodmutualaidnetwork@gmail.com,,https://chuffed.org/project/ridgewoodmutualaidnetwork,"Groceries, medicine, and other assistance for Ridgewood community members. (Organized by Ridgewood Tenants Union)"
+101,Rockaway Mutual Aid,Queens,financial-support,food,medicine,,(732) 654-2505,,,https://chuffed.org/project/rockaway-mutual-aid-covid-19-relief-fund,"Support for Rockaway community members. Call M-Sa, 9a to 1p"
+102,Safety Practices for COVID-19 Mutual Aid Projects,National,covid,information,,,,,,https://docs.google.com/document/d/1C16wFJ6KGQAAVkON6DXFzqBx6ijq9uHFONjyV_GTVEs/edit,Various guidelines for public safety for mutual aid orgs / volunteers
+103,"Sistas Van Needs Intake Form | ""Sistas Van"" Formulario De Necesidades ",Brooklyn,covid,lgbtqi+,poc,,,,,https://docs.google.com/forms/d/e/1FAIpQLSdZPV9N6oBFaFpOSGQCP8RkpoeZ64WhJHAbNP63RGAe3Ntikw/viewform,"Mobile support, offering food, PPE, other goods — focused on Black women / femmes"
+104,South Brooklyn Community Mutual Aid,Brooklyn,covid,food,medicine,,,,,https://docs.google.com/spreadsheets/d/1RduJEBqZFa9jXgDZskga06cH52mDR87yoNdXIajLOsU/edit#gid=920888441,"Support for South Brooklyn (Sunset Park, Bay Ridge, Bensonhurst, Gravesend) community members"
+105,Southeast Queens Community Care Outreach,,covid,food,medicine,,,,,https://docs.google.com/forms/d/1moBlemoRTZzrIbBcvu_zPRFiRbmCG8HBs48o2NRU8LU/viewform?edit_requested=true&fbclid=IwAR394f1D86NyXIg-oAdi3-Y96meuMiTmwlFHACToVEbh4sIupdQ5qJ7_5Dc,"Support for Southest Queens community members (groceries, medication, other supplies)"
+106,The End is Queer,NYC,covid,lgbtqi+,poc,,,,,https://www.facebook.com/groups/218921919226857/,Mututal aid group for queer / trans people in NYC
+107,Undocu Workers Fund,NYC,covid,undocumented-people,,,,undocuworkersfund@gmail.com,,https://raise-nyc.squarespace.com/events,Up to $200 cash assistance for undocumented workers in need
+108,Westcott Mutual Aid Network,New York State,covid,food,medicine,,,,,https://docs.google.com/forms/d/e/1FAIpQLSfsOqhZBPwqbLcreODbgeYDvIIfZ201p6aaGVIYYhN3645WYA/viewform,"Mutual aid project in Westcott, Syracuse"
+109,COVID-19 Information - in 50+ languages,National,covid,information,,,,,,https://drive.google.com/drive/folders/1KmaFpW-NFoKy8_D0JrNKpUsNb15MFkSk?fbclid=IwAR1uXT_tFs472LYS-M-o6CDe03y_eSW8rBI7MmXoiy4m4iFHYsk13JCtXCE,Huge directory of COVID-19 resources in over 50 languages
+110,COVID-19 Community Care Resources,National,covid,information,,,,,,https://anothergulf.com/covid-19communitycare/,Resources and guides for COVID-19 survival
+111,Coronavirus Resource Kit,National,covid,information,,,,,,https://docs.google.com/document/d/1Rcan4C_e6OBFBI5bUn7MtYK74Ab-WarxyJmDvZUI_YA/edit,A general-purpose COVID-19 resource list
+112,NYC United Against Coronavirus,NYC,covid,information,,,,,,https://docs.google.com/document/d/18WYGoVlJuXYc3QFN1RABnARZlwDG3aLQsnNokl1KhZQ/edit,Comprehensive NYC COVID-19 resource list
+113,Robin Hood Response Resources,National,covid,information,,,,,,https://www.robinhood.org/rh-relief-effort-resources/,Financial / educational COVID-19 relief
+114,MOFAD COVID Resources,NYC,covid,information,,,,,,https://www.mofad.org/covid,Resources for restaurant owners / workers — from the Museum of Food & Drink
+115,"Asian American, Native Hawaiian, and Pacific Islander (AA and NHPI) in-language resources on the novel coronavirus (COVID-19)",National,covid,information,,,,,,https://docs.google.com/spreadsheets/d/1XePaKv7Ar59PG7z37QqzIb8WfynEx5BK5ZfK3VLXIJA/htmlview#,"Mutilingual resources for Asian-American, Native Hawaiin, and Pacific Islander Americans"
+116,Suffolk County (eastern Long Island) Resources and Services,New York State,covid,information,,,,,,https://docs.google.com/document/d/1ASXGhju45qjkYExmd3FDRC_mK8aZ5Y1qenpJer0mnmE/edit?usp=sharing,Resources focused on Suffolk County / Long Island
+117,https://www.irs.gov/coronavirus/non-filers-enter-payment-info-here,National,covid,legal,information,,,,,https://www.irs.gov/coronavirus/non-filers-enter-payment-info-here,"Info on receiving the $1,200 stimulus check"
+118,https://www.irs.gov/coronavirus/get-my-payment,National,covid,legal,information,,,,,https://www.irs.gov/coronavirus/get-my-payment,"Checking on the status of $1,200 stimulus payment"
+119,Community Care NYC,NYC,food,,,,(661) 381-1206,,,https://docs.google.com/forms/d/19MKw2jIRTEu6TAlyelx6aSyWLWgD_FjiPfcSyzmVoz0/viewform?edit_requested=true,One-time $40 groceries delivered at no cost to NYC residents (preference for Bronx residents)
+120,Corona Couriers,NYC,food,medicine,,,(929) 320-0660,coronacourier@protonmail.com,,https://docs.google.com/document/d/1s9X6u1hY9zDTm0R5_VFZ1nceQnhxDSNT9UPKhfBXdBo/edit?usp=sharing,"Cyclists providing no-charge groceries / medications / other supplies in Brooklyn, Manhattan, Queens. (Partnering with other orgs in the Bronx)"
+121,Food Hub NYC,NYC,food,,,,,,,https://www.google.com/maps/d/u/0/viewer?mid=1FU1Eg9em2ZkJSIizaBlftrYi02tCUF2L&ll=40.769397776967104%2C-73.93386812656252&z=12,Map of restaurants offering free food for families affected by COVID-19
+122,Food Bank NYC,NYC,food,,,,,,,https://www.foodbanknyc.org/covid-19/,Free meals at various soup kitchens / food pantries. (See map: https://www.google.com/maps/d/u/0/viewer?mid=1uVjjVxXfLFU4R6V7qjXXRoxCy-IwfMSP&ll=40.697704133839615%2C-73.91146156777342&z=12)
+123,FTP Mutual Aid BX,Bronx,food,,,,,,,https://docs.google.com/forms/d/e/1FAIpQLScBiurVyYXe3YNyhduT1ful-gKZ4YzvrERGgyMX7UI4cDxeyg/viewform,Delivery of $30 of groceries / toiletries / PPE to Bronx residents
+124,Invisible Hands,NYC,food,medicine,,,(732) 639-1579,InvisibleHandsDeliver@gmail.com,,https://u1584542.ct.sendgrid.net/mps2/c/HgE/ni0YAA/t.305/s5ztoEfWTX6JaZOZs2e7dA/h7/gTifEO5WwO1jkfqUXbJvZeu8amq3j1gA0wYZ-2FpywBd3S73nxk0tD1NWNLMIwVE0lwYk7QR-2B-2Fx7mPDD5RyFr2Yn04N2NUW5suxDrjtDKtqZX0yTq-2BqGY4BFUsIZJwShqTORJpaCgISisrEzR3Mh1hv7qgX9pPYsubRDJsMx0XxX0wGyYsqZ9DG4u3REDKrSFCS6Cekkw-2BtkpoEh-2BOF0SY5B144333Zq7vdoY1N1LG8EP9aKa2sduXgVjdv-2FgYX1NoBNBAAw44Zl1PYHZrVewBMdMFZKptNDKOIMttMTs4JtemeX9gcFHQwrIi6nCchDZ7/wH0W,"Safe, free deliveries for at-risk NYC residents (no texts, please)"
+125,Local Roots,NYC,food,,,,,info@localroots.nyc,,https://www.instagram.com/p/B942yNpB2uG/,Vegetable boxes to restaurant / healthcare workers
+126,NYC.gov's food resources,NYC,food,,,,,,,http://www.nyc.gov/getfood,NYC city government food resource list
+127,FoodHelp NYC,NYC,food,,,,,,,https://dsny.maps.arcgis.com/apps/webappviewer/index.html?id=35901167a9d84fb0a2e0672d344f176f,Map of free food resources around the city
+128,Access HRA,NYC,food,legal,policy,,,,,https://a069-access.nyc.gov/accesshra/,Apply for SNAP benefits / cash assitance
+129,HelpNowNYC,NYC,food,,,,,,,https://www1.nyc.gov/site/helpnownyc/index.page,Ways to donate food / cash / supplies to people in need
+130,NYC Food Delivery Assistance,NYC,food,,,,,,,https://cv19engagementportal.cityofnewyork.us/#/display/5e7555117ad6750216160409,Delivery of emergency meals
+131,The Okra Project,NYC,food,lgbtqi+,poc,,,,,https://forms.gle/muhNzJusqwC1G8kz9,Delivery of free food / supply kits to black trans / GNC people in NYC
+132,Plentiful,NYC,food,,,,,,,https://www.plentifulapp.com/,Food pantry locator app
+133,Soup Kitchens/Food Pantries Master List,NYC,food,,,,,,,https://docs.google.com/spreadsheets/d/11sRdUqjlWg7gqZBNVq87Y7Hnfrf4s3fBnbANoxeWUSI/edit?fbclid=IwAR2PVY85S3GZuAHdv1byh1Xnm4h17CHBH6nWlskFmZbZYHYz-u_8LL_QlGw#gid=273331901,Master list of soup kitchens in NYC
+134,Coronavirus Pandemic Electronic Benefit Transfer (P-EBT) Food Benefits,NYC,food,,,,,,,https://otda.ny.gov/SNAP-COVID-19/Frequently-Asked-Questions-Pandemic-EBT.asp,$5.70 per day in cash assistance to make up for meals missed during the school year
+135,Free pad and tampon distribution at 211 Meal Hubs,NYC,women,womens-health,,,,,,https://www.schools.nyc.gov/school-life/health-and-wellness/coronavirus-update/hygiene-products,Free pad / tampon distribution
+136,Thai Farm Kitchen,Brooklyn,food,presceptions,vulnerable-populations,,,,,https://www.facebook.com/thaifarmkitchen/,"Free deliveries / lunches to elderly, disabled, and immunocompromised people within 1 mile of Thai Farm Kitchen's restaurant (on Church & 5th)"
+137,World Central Kitchen,NYC,food,,,,,,,https://wck.org/news/thebronx,"Free healthy meal distribution in multiple locations in The Bronx, Queens, Harlem, Brooklyn, and New Jersey"
+138,Universe City NYC Community Aid Network for East Brooklyn,Brooklyn,food,unhoused,homeless,Franklyn Mena,347-652-5130,fam@universecity.nyc,,https://eastnewyork.com/east-new-york-and-brownsville-free-fresh-food-pickup-locations-for-residents,Food pantry / hot meal pickups. Offered to shelter residents / NYCHA residents on a sliding scale
+139,Self-care tips if you become sick with COVID-19 from an activist nurse,National,covid,advice,mental-health,,,,,http://bit.ly/33iG8yr,Self-care tips for those infected with COVID-19
+140,Self-care tips Spanish language version,National,covid,advice,mental-health,,,,,https://drive.google.com/open?id=1XIrWAf3msCYidXvEZ0B6SGoD2kMD2m5J,Self-care tips for those infected with COVID-19 (Espanol)
+141,Landlord Watch COVID-19 Response,NYC,legal,legal,housing,,,,,https://landlordwatch-covid19.webflow.io/,Resources for dealing with predatory landlords during the COVID-19 crisis
+142,Rent Strike Toolkit,National,legal,legal,housing,,,,,https://d3n8a8pro7vhmx.cloudfront.net/righttocounselnyc/pages/100/attachments/original/1585739362/RTCNYC.COVID19.4.pdf?1585739362,Guide to the COVID-19 related rent strike
+143,Suing your Landlord for home repairs,NYC,legal,legal,housing,,311,,,https://app.justfix.nyc/en/ehp/splash,"How to sue your landlord if they fail to make emergency repairs on your home (Can call 311 9a-5p, M-F)"
+144,"Huelga de Renta, Guia y Recursos",NYC,legal,legal,housing,,,,,https://docs.google.com/document/d/11MbSwedhh9j3iKSVvC7BlATJHFadv9jJXXKi_IsZPtg/edit,"Renter's rights guide, in Spanish (Espanol)"
+145,E4F - Equality for Flatbush,Brooklyn,financial-support,food,medicine,,,,,http://www.equalityforflatbush.org,Hub for Equality for Flatbush
+146,Report hate crimes here,National,legal,,,,,,,https://www.standagainsthatred.org/,Site for repoting hate crimes / discrimination
+147,Talking to kids about COVID-19 trauma,National,covid,childcare,advice,,,,,https://services.blimessaging.com/201208/viewaswebpage/viewaswebpage.aspx?unqid=55e30320-bc67-ea11-acc4-000c295a2555,How to communicate with children about COVID-19
+148,AA Meetings Online ,National,mental-health,substance-abuse,,,,,,https://docs.google.com/document/d/1a71ccw7ihaWelksKwOp4AzAkYlVqSoKiN6Gsm38bKMU/mobilebasic,Online meetings of Alcoholics Anonymous
+149,Crisis Text Line,National,mental-health,,,,,,,https://www.crisistextline.org/referrals,"Free text-based emotional support for suicide, depression, anxiety, and other issues"
+150,Instagram-live Fitness,National,exercise,,,,,,,https://docs.google.com/spreadsheets/d/1BbiB2hdQiYaoPqQeWgMCDcAR6GPOSMGUDApsMkPIX9g/edit?fbclid=IwAR0Z2r-pEnq8Y9iULglcIIcwEoeMofrM9kZn1BgolThc7f7E2ivi9zVGnwM#gid=0,Free exercise / fitness lessons on Instagram
+151,Grounding Exercises,National,mental-health,exercise,,,,,,https://www.healthline.com/health/grounding-techniques#physical-techniques,Grounding / mindfulness exercises to deal with stress
+152,7 Ways to Calm,national,mental-health,exercise,,,,,,https://drsarahallen.com/7-ways-to-calm/,7 mindfulness exercises to help calm yourself
+153,10 free activist ebooks,National,resources,activism,,,,,,https://www.haymarketbooks.org/blogs/112-ten-free-ebooks-from-haymarket-books,10 free activist books from Haymarket Books
+154,Managing Anxiety about the Coronavirus,National,mental-health,exercise,,,,,,http://sptracking.alp.org/f/a/yCh-_GlatDRaVRiPlNtHBg~~/AAPuPAA~/RgRgUjIkP0RCaHR0cHM6Ly9hbHAub3JnL21vZHVsZXMvY2l2aWNybS9leHRlcm4vdXJsLnBocD91PTU0NTIyJnFpZD0yMjMyODU2VwNzcGNCCgAApP5wXrU6q7pSFGltYW5paGVucnlAeWFob28uY29tWAQAAAAA,A podcast from Therapy for Black Girls
+155,MINKA Brooklyn,Brooklyn,mental-health,exercise,,,,triciabendavies@gmail.com,,https://www.instagram.com/p/B9sSAC2j-W6/?utm_source=ig_web_copy_link,Distance reiki sessions. No one will be turned away for lack of funds.
+156,Resources for Drug Use and COVID-19 Risk Reduction,NYC,mental-health,substance-abuse,,,,nycdsahr@gmail.com,,https://www.vitalstrategies.org/drug-use-covid-resources/,"Resources for drug-use risk reduction during COVID-19. Fentanyl strips, clean needles, etc."
+157,COVID-19 Resources for Undocumented Communities,National,undocumented-people,financial-support,food,,,,,https://docs.google.com/spreadsheets/d/18p9OSlLpSYanIoUC-gEbhVbRMYVUfw4wyrixa9ekGdc/edit?fbclid=IwAR1Dn8RcQe83d638tcozjFUHQvdfMIfbiH5xk-7pZOgPiqaa7tIM1hxGReY#gid=0,National directory of resources for undocumented people
+158,Healthcare Access for Undocumented Folks in the Time of COVID19 (from United We Dream),National,undocumented-people,legal,advice,,,,,https://unitedwedream.org/2020/03/healthcare-access-for-undocumented-folks-in-the-time-of-covid19/?fbclid=IwAR1U2B7DSvI-pRkg--DxuYzbRRjzOOHrWjMgMpEv7ib9vZtwkdi8C2lERPQ,National guide to policies affected undocumented peoples' access to care
+159,Immigrants Rising - Resource List (English),National,undocumented-people,financial-support,food,,,,,https://docs.google.com/document/d/1PxLuuH0-hwHXftUXuEi52Q1qWUDegN8_I1L4ulIFwzk/preview,"Resource list for immigrants / undocumented people, including mental health, financial resources, and legal rights"
+160,Immigrants Rising - Recursos en español sobre COVID-19,National,undocumented-people,financial-support,food,,,,,https://docs.google.com/document/d/1E0M9FfcQu40DMzVjRzl5eUVt_UKwVz94H5ApV_tZEh8/edit,"Resource list for immigrants / undocumented people, including mental health, financial resources, and legal rights -- in Spanish (Espanol)"
+161,Informed Immigrant Resource List,National,undocumented-people,financial-support,food,,,,,https://www.informedimmigrant.com/guides/coronavirus/?fbclid=IwAR2FfNqeR-jnOEMCv4osdX5E6vq2JgDn0yTHmoQ37U5-6pQjg6HIUiV5TaM#,State-by-State list of resources for immigrants
+162,New York State Youth Leadership Council - List of Resources,New York State,undocumented-people,financial-support,food,,,,,https://docs.google.com/document/d/1qilwSmaqELoyPc9-a1ka82aXAq3HDlWvbYEzwsKNNL0/edit,"Resources related to New York State law, policy, and resources for Immigrants"
+163,UPROSE Small Business Resources,National,jobs,business,legal,,,,,https://drive.google.com/file/d/1FxyKj1JFny4_KcowkUf6riWuTO85pI9b/view?usp=sharing,"Info on small business / non-profit assistance including labor rights, benefits, taxes, and unemployment"
+164,UPROSE Small Business Resources (Spanish),National,jobs,business,legal,,,,,https://drive.google.com/file/d/1_Ja3ok0PupnQiASl7Bk1ri9fcakAh5NF/view?usp=sharing,"Info on small business / non-profit assistance including labor rights, benefits, taxes, and unemployment"
+165,Small Business Counseling - NYSBDC,New York State,jobs,business,legal,,,,,https://drive.google.com/file/d/1_Ja3ok0PupnQiASl7Bk1ri9fcakAh5NF/view?usp=sharing,Free counseling from New York Small Business Development Center
+166,NYC Small Business reopening guide,NYC,covid,business,legal,,888-SBS-4NYC,,,https://www1.nyc.gov/nycbusiness/article/reopening-guide,
+167,NYC Small Business Relief,NYC,business,financial-support,,,,,,https://www1.nyc.gov/site/sbs/businesses/covid19-business-financial-assistance.page?fbclid=IwAR2guDZyMytoQRkndd8gkXLIYtlxCcMydzZN4oetCNFLcBFreQa0j8FNMwY,
+168,Free face masks for small business employees,NYC,ppe,covid,,,,,,https://www1.nyc.gov/nycbusiness/article/free-face-coverings,"Free face masks, courtesy of the NYC government"
+169,Free or reduced price wifi,National,utilities,tech,,,,,,https://docs.google.com/document/d/1kjVFeWefjnEfUrCR2yXxOvsp6_rDOfaMivUEiaBreiA/edit,List of internet service providers offering discounts on WiFi
+170,Spectrum low income internet assistance,National,utilities,tech,,,,,,https://www.spectrum.com/browse/content/spectrum-internet-assist,Spectrum's low-cost internet program
+171,“What Should I Do?” Illustrated Coronavirus Advice Flowchart.,National,mental-health,,,,,,,https://medium.com/@wendymacnaughton_7770/what-should-i-do-illustated-corona-virus-advice-flowchart-57077138a387,Flow-chart guide to what you should do if you think you have COVID-19
+172,13 Coronavirus myths busted by science (long explanations),National,covid,information,,,,,,https://www.livescience.com/coronavirus-myths.html?fbclid=IwAR3F8G9iyTrp3ZuV9fOsdihQREOhEvekBu4vrxzvjPMw19bs7BgeupdQQlU,Science-informed guide to the coronavirus
+173,24 Coronavirus myths explored (short explanations),National,covid,information,,,,,,https://www.medicalnewstoday.com/articles/coronavirus-myths-explored,Science-informed guide to the coronavirus
+174,Brooklyn Sanctuary Support Team fundraiser for Brooklyn Immigrants,,financial-support,,,,,,,https://www.gofundme.com/f/immigrant-community-support?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet&fbclid=IwAR085UWcwDcHijDUxpnCH7J7rsp5Tn1prdxqjrm-OSOx2yfnfEiGEzdos98,
+175,CAAAV cancel rent fundraiser,,financial-support,,,,,,,https://charity.gofundme.com/o/en/campaign/sashas-cancelrent-fundraiser-for-caaav/sashawijeyeratne1?utm_campaign=ocdonate&utm_medium=facebook&utm_source=crowdrise&fbclid=IwAR31wDfD35W6qIFBZ0YiPdZz2lHe-bjTy74Ddtka11QHFHwexittLF1iM78,
+176,Cinema Workers in NYC,,financial-support,,,,,,,https://www.gofundme.com/f/cinema-worker-solidarity-fund,
+177,Damayan Emergency fund for Filipinos in NYC,,financial-support,,,,,,,https://damayanmigrants.ourpowerbase.net/civicrm/contribute/transact?reset=1&id=5&fbclid=IwAR0j7fNxRzxP8lpGLKqZnXlA1TIoKA6wrKfPEj3wLX5MkSb55znte1ZphkA,
+178,Emergency Funds for Families from Flushing International High School,,financial-support,,,,,,,https://www.gofundme.com/f/covid19-affected-family-emergency-funds?utm_source=facebook&utm_medium=social&utm_campaign=p_cp+share-sheet,
+179,Flushing Queens Mutual Aid Fund,,financial-support,,,,,,,https://docs.google.com/forms/d/e/1FAIpQLSf4E9S9lr2J34lbz7VHCyLLjxoe-dz5LAEl8EalDIksQHTSNQ/viewform,
+180,Laundry Workers Center covid19 relief fund for essential workers,,financial-support,,,,,,,https://laundryworkerscenter.nationbuilder.com/covid_19_emergency_response_fund,
+181,Minkwon Center fund support for undocumented Koreans,,financial-support,,,,,,,https://secure.givelively.org/donate/minkwon-center-for-community-action-inc/covid-19-share-the-relief,
+182,Minkwon Center Flushing Mutual Aid Fund for Flushing residents and raise up community leaders,,financial-support,,,,,,,https://secure.givelively.org/donate/minkwon-center-for-community-action-inc/flushing-mutual-aid-fund,
+183,NYC relief fund for Brazilian immigrants,,financial-support,,,,,,,https://www.gofundme.com/f/coletivacao-ny?teamInvite=03nUIYpyY6yYZx8yJwbk2V6iJwD12YPSJPPsNczpcfJHAgEGcaVVU2pCqWd2bECP,
+184,NYIC DACA renewal fee support,,financial-support,,,,,,,https://www.tfaforms.com/4777556,
+185,Queens funds for people who lost someone due to covid19,,financial-support,,,,,,,https://www.instagram.com/p/B_iLIvsnZFv/?igshid=sobsv8bo7g8g,
+186,QWAVENYC relief fund for Asian + LGBTQI folks,,financial-support,,,,,,,https://www.instagram.com/p/B99bG2oF5We/,
+187,Radical Muslim Mutual Aid: COVID 19 Support,,financial-support,,,,,,,https://masjidalrabia.org/rmma-application,
+188,Restaurant Workers Community Foundation Relief Fund,,financial-support,,,,,,,https://form.southernsmoke.org/smoke/application/,
+189,SUSU Rapid Response support for Black Feminists,,financial-support,,,,,,,https://www.blackfeministsusu.com/susurrs?utm_source=North+Star+Fund+Email+News&utm_campaign=0e1db4d9cb-EMAIL_Cmnty_News_2020_03_29&utm_medium=email&utm_term=0_a84219a762-0e1db4d9cb-118841621&mc_cid=0e1db4d9cb&mc_eid=cd03c78ff2,
+190,Transgender Emergency Fund,,financial-support,,,,,,,https://www.gofundme.com/f/transgender-people-emergency-fund-101?utm_medium=copy_link&utm_source=customer&utm_campaign=p_lico+share-sheet,
+191,The Unplug Displacement fund for Black and Brown womxn and non binary folks,,financial-support,,,,,,,https://www.instagram.com/p/B97z9-cphqO/,
+192,Undocu Womens Fund,,financial-support,,,,,,,https://www.instagram.com/undocuwomensfund/,
+193,Undocumented Arabs in Queens NYC fund,,financial-support,,,,,,,https://www.gofundme.com/f/covid19-arab-mutual-aid-fund?utm_medium=copy_link&utm_source=customer&utm_campaign=p_lico+share-sheet,
+194,Unlocal covid19 relief fund,,financial-support,,,,,,,https://charity.gofundme.com/o/en/campaign/unlocals-covid-19-emergency-relief-fund,
+195,Weekly grants for artists,,financial-support,,,,,,,https://ilysm.typeform.com/to/rjCzYW,
+196,WOC Artist Relief Fund,,financial-support,,,,,,,https://www.instagram.com/p/B9zZshtH21F/,
+197,Worker Justice Project covid19 Jornalera Relief Fund,,financial-support,,,,,,,https://www3.thedatabank.com/dpg/551/spdf.asp?formid=Fundaiser&fbclid=IwAR1GQbyr6O9pE8PW0bxpK0BUDrqim8k7nfw6WNb35DQik8zCECoiP0qngg8,
+198,Grants from cooperatives and LLCS who are members of ceanyc,,financial-support,,,,,,,https://gocoopnyc.com/programs/,
+199,Long Island Jobs with Justice’s Solidarity Fund for families of workers facing deportation,,financial-support,,,,,,,https://longislandjwj.org/donate/solidarity-fund/?fbclid=IwAR0HB5wmyJaR7tAJInhgULIZaqd_hQZUzYCW_ZnT7adumPENB2hubPOITyQ,
+200,Donate COVID-19 Survival Funds for 29 Undocumented Bangladeshis in Brooklyn,,financial-support,,,,,,,https://www.launchgood.com/project/covid19_survival_funds_for_undocumented_bangladeshis_in_brooklyn#!/,
+201,Donate to La Morada restaurant so they can stay afloat,,financial-support,,,,,,,https://www.gofundme.com/f/help-save-lamorada-immigrant-restaurant?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet,
+202,Donate to City Tamale restaurant so they can stay afloat,,financial-support,,,,,,,https://www.gofundme.com/f/1xireebapc?sharetype=teams&member=3936612&utm_medium=social&utm_source=instagram&utm_campaign=p_na+share-sheet,
+203,Donate burial fund for Mexicans in NYC,,financial-support,,,,,,,https://www.gofundme.com/f/burial-fund-mexicans-in-nyc?fbclid=IwAR1AftQpOHwK5JA89q09ehefW--VxkpeIWPTxRxaKsxVRnm1FYyNFs31UeU,
+204,Donate funds to undocumented transgender people in NYC,,financial-support,,,,,,,https://www.gofundme.com/f/funds-for-transgender-undocumented?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp%20share-sheet&fbclid=IwAR2E4sc3ut5sSUnDxw5xmE7gP0icuiKUyNRY79djrX56kUIgg5Y7LxGDuek,
+205,Donate east harlem food emergency fund,,financial-support,,,,,,,https://www.gofundme.com/f/east-harlem-food-emergency-fund?sharetype=teams&member=4320234&utm_medium=copy_link&utm_source=customer&utm_campaign=p_na+share-sheet&rcid=1fb17525bdf74f90bde68ef5a25a9ba0&fbclid=IwAR31i3VGW-MK_LHhwt25GREPB3U54f--AEvWj9v879-sNMLaL7YoOwrY9vU,
+206,National the workers lab covid19 relief fund,,financial-support,,,,,,,https://www.theworkerslab.com/the-workers-fund?utm_campaign=TWF%20Launch%20Campaign&utm_content=123861273&utm_medium=social&utm_source=twitter&hss_channel=tw-2856360912,
+207,"National Betancourt Macias Family Scholarship Foundation, Emergency Funds",,financial-support,,,,,,,https://www.undocuscholars.com/,
+208,National Scholly relief fund for students,,financial-support,,,,,,,http://myscholly.com/relief/,
+209,National Cosecha undocumented worker fund,,financial-support,,,,,,,https://secure.actblue.com/donate/cosechamutualaid?refcode=ig,
+210,National Undocu Black Network Black Immigrants Fund,,financial-support,,,,,,,https://undocublack.org/donate,
+211,National Farmworkers Covid19 Relief Fund,,financial-support,,,,,,,https://hipgive.org/project/farmworkers-covid-19-pandemic-relief-fund/,
+212,National Nakasec’s Emergency Mutual Aid Request for Undocumented people,,financial-support,,,,,,,https://docs.google.com/forms/d/e/1FAIpQLSd9s2GGJ9u5sqbSCN77zvj2VeCAeMvnSmE-IbK5y5fxLU2FNg/viewform,
+213,NYC Mayor announces small immigrant relief fund,,financial-support,,,,,,,https://www1.nyc.gov/office-of-the-mayor/news/262-20/mayor-de-blasio-new-york-city-covid-19-immigrant-emergency-relief-program-open?fbclid=IwAR10LVKjlW_PmtMc-PdQw5xUI0DBmAQk9kQ_7WES000tFDr6eZcd4rqS5mA,
+187,Form to submit a complaint to the Office of the Attorney General,,housing,,,,,,,https://ag.ny.gov/uploads/tenant-harassment-prevention-task-force-complaint-form,
+188,Video espanol derechos del inquilino inmigrante,,housing,,,,,,,https://www.facebook.com/80434767238/videos/239899510427885,
+189,Ridgewood tenants union / Unión de Inquilinos de Ridgewood,,housing,,,,,,,http://www.ridgewoodtenantsunion.org/,
+190,Attorney General know your rights for immigrant tenants,,housing,,,,,,,https://ag.ny.gov/sites/default/files/immigration_tenants_rights_web.pdf,
+191,Know your rights - Housing,,housing,,,,,,,https://www.instagram.com/p/B99cK1ggMJZ/,
+192,New York Legal Assistance Group infographic about housing rights at the moment,,housing,,,,,,,https://www.instagram.com/p/B-H4cQGFXi-/,
+193,Toolkit housing justice for all - how to organize a rent strike,,housing,,,,,,,https://d3n8a8pro7vhmx.cloudfront.net/righttocounselnyc/pages/100/attachments/original/1585739362/RTCNYC.COVID19.4.pdf?1585739362,
+194,More information about the moratorium on rent,,housing,,,,,,,https://www.righttocounselnyc.org/moratorium_faq,
+195,Más información sobre el moratoria de desalojo en Nueva York,,housing,,,,,,,https://www.righttocounselnyc.org/faq_in_spanish,
+196,请单击此处获取简体中文的常见问题解答,,housing,,,,,,,https://www.housingjusticeforall.org/faqs-chinese,
+197,ЧАСТО ЗАДАВАЕМЫЕ ВОПРОСЫ И ОТВЕТЫ,,housing,,,,,,,https://www.housingjusticeforall.org/faq-russian,
+198,Needs assistance support for NYCHA residents,,housing,,,,,,,https://docs.google.com/forms/d/e/1FAIpQLSdQEOrksiksZsWUyodjmkfNv5fUPYs2JWRh3-MOaCrhXLrfdg/viewform,
+199,Tenants Rights Information Sessions,,housing,,,,,,,https://www.eventbrite.com/e/tenants-rights-information-sessions-tickets-106420095370,
+200,CUNY Citinizenship Now,,DACA,undocumented-people,,,646-664-9400,citizenshipnowinfo@cuny.edu,,,Hotline for DACA recipients who need help understanding / renewing their status
+201,Free DACA renewals with VOLS,,DACA,undocumented-people,,,,,,https://drive.google.com/file/d/1P9TvGeXd2HUrd_Fb2gkeQXuWafKne30v/view?usp=sharing,
+202,espanol,,DACA,undocumented-people,,,,,,https://drive.google.com/file/d/1LHXKk_Vvp3I8tt1SvP6AlXxecbkepDz7/view?usp=sharing,
+203,DACA updates during coronavirus,,DACA,undocumented-people,,,,,,https://www.informedimmigrant.com/guides/daca-coronavirus/?utm_source=instagram&utm_medium=social&utm_campaign=covid-19&utm_content=ii_ig#,
+204,Free virtual DACA renewal clinics with make the road nj,,DACA,undocumented-people,,,,,,https://www.instagram.com/p/B-fAJJdn9Rl/,
+205,BMFS foundation DACA renewal materials support,,DACA,undocumented-people,,,,,,https://www.instagram.com/p/B-v1GPiAgnX/,
+206,Step by step self-renewal DACA application packet,,DACA,undocumented-people,,,,,,https://immigrantsrising.org/resource/steps-to-renew-daca/,
+207,Español Actualizaciones sobre DACA durante la crisis de coronavirus,,DACA,undocumented-people,,,,,,https://www.inmigranteinformado.com/guides/daca-coronavirus/,
+208,DACA renewal guidance due to coronavirus,,DACA,undocumented-people,,,,,,https://www.nilc.org/2020/04/03/daca-renewal-guidance-in-light-of-uscis-closures/,
+209,Immigrants Rising Beyond DACA resource page,,DACA,undocumented-people,,,,,,https://immigrantsrising.org/start-here/beyond-daca/,
+210,New Americans Hotline - NY Office,,undocumented-people,legal,,,800-566-7636,,,,
+211,Criminal-Immigration Helpline,,undocumented-people,legal,,,212-725-6422,,,https://www.immigrantdefenseproject.org/criminal-immigration-helpline/,
+212,Bronxworks Legal Services - immigration department,,undocumented-people,legal,,Tia Lafortune,(646) 315-0526,klafortune@bronxworks.org,,,
+213,Free DACA renewals with VOLS,,legal,,,,,,,https://drive.google.com/file/d/1P9TvGeXd2HUrd_Fb2gkeQXuWafKne30v/view?usp=sharing,
+214,espanol,,legal,,,,,,,https://drive.google.com/file/d/1LHXKk_Vvp3I8tt1SvP6AlXxecbkepDz7/view?usp=sharing,
+215,DACA updates during coronavirus,,legal,,,,,,,https://www.informedimmigrant.com/guides/daca-coronavirus/?utm_source=instagram&utm_medium=social&utm_campaign=covid-19&utm_content=ii_ig#,
+216,Free virtual DACA renewal clinics with make the road nj,,legal,,,,,,,https://www.instagram.com/p/B-fAJJdn9Rl/,
+217,BMFS foundation DACA renewal materials support,,legal,,,,,,,https://www.instagram.com/p/B-v1GPiAgnX/,
+218,Step by step self-renewal DACA application packet,,legal,,,,,,,https://immigrantsrising.org/resource/steps-to-renew-daca/,
+219,Español Actualizaciones sobre DACA durante la crisis de coronavirus,,legal,,,,,,,https://www.inmigranteinformado.com/guides/daca-coronavirus/,
+220,DACA renewal guidance due to coronavirus,,legal,,,,,,,https://www.nilc.org/2020/04/03/daca-renewal-guidance-in-light-of-uscis-closures/,
+221,Immigrants Rising Beyond DACA resource page,,legal,,,,,,,https://immigrantsrising.org/start-here/beyond-daca/,
+222,Helpline for people quarantined with an abuser,,abuse,crisis,,,1.800.942.6906,,,,
+223,Domestic / Gender-based Violence Hotline,,abuse,crisis,,,1-800-621-4673,,,,
+224,Violence Intervention Hotline (Bilingual - Esp),,abuse,crisis,,,1-800-621-4673,,,,
+225,NMIC Domestic Violence Project,,abuse,crisis,mental-health,,212-822-8311,,,,Free and confidential services for victims & survivors of domestic abuse / intimate partner violence.
+226,NYC COVID-19 Emotional Support Hotline,,mental-health,,,,844-863-9314,,,,
+227,Men's healing group,,mental-health,,,,,book@reciprocityfoundation.org,,,Remote healing meetings for men-identifying folks. Email if interested.
+228,Resources for NYC survivors Family Justice Centers and Sanctuary for Families,,mental-health,,,,,,,https://www.instagram.com/p/B97DaRSlrF2/?utm_source=ig_web_copy_link,
+229,"Free or Fair Cost Online Wellness Led by People of Color, Womxn and Queer Folks",,mental-health,,,,,,,https://www.instagram.com/p/B94gmzbgmmS/,
+230,Immigrants Rising Virtual Wellness Gatherings,,mental-health,,,,,,,https://immigrantsrising.org/virtual-wellness-gatherings/,
+231,NYC Well - helping nyc in need,,mental-health,,,,,,,https://nycwell.cityofnewyork.us/en/,
+232,Mutual Aid (NYC) Network,,mental-health,,,,,,,https://docs.google.com/document/d/1aevxXYQgeP-uJa0eSI0YYIJKZBNkn-6Rjy_fY7zpRLo/edit,
+233,Minka Brooklyn Virtual Meditation and Reiki,,mental-health,,,,,,,https://www.facebook.com/MINKAbrooklyn/,
+234,Transgender Law Center Virtual Gatherings,,mental-health,,,,,,,http://bit.ly/virtualgatherings,
+235,Crisis Text Line,,mental-health,,,,,,,https://www.crisistextline.org/get-help/suicide?gclid=EAIaIQobChMIyN7M5eih6AIVBeiGCh0m_QHeEAAYASAAEgL9IfD_BwE,
+236,Trans LifeLine,,mental-health,,,,877-565-8860,,,https://www.translifeline.org/,
+237,National Suicide Prevention Lifeline,,mental-health,,,,800-273-8255,,,https://suicidepreventionlifeline.org/#,
+238,The Trevor Project,,mental-health,,,,866-488-7386,,,https://www.thetrevorproject.org/#sm.00015qohet9v3fpbutf12yf2safit,"Helpline for LGBTQI+ youth, aged 13-24"
+239,"The Gay, Lesbian, Bisexual and Transgender National Hotline",,mental-health,,,,888-843-4564,,,https://www.glbthotline.org/hotline.html,
+240,VirusAnxiety Online Resource,,mental-health,,,,,,,https://www.virusanxiety.com/,
+241,Stay at home online music festival,,mental-health,,,,,,,https://www.stayathomefest.com/,
+242,NYS Office of Mental Health Hotlines,,mental-health,,,,,,,https://omh.ny.gov/omhweb/bootstrap/crisis.html,
+243,Free one year subscription to the Balance App,,mental-health,,,,,,,https://www.instagram.com/p/B9w5Pp6HkV8/,
+244,People of color only sliding scale card readings,,mental-health,,,,,,,https://www.instagram.com/p/B-GFqvPJpH6/,
+245,We Are Rad Health Online wellness circles,,mental-health,,,,,,,https://www.instagram.com/p/B-ZxkE-pQnl/,
+246,Free Meditation and Mindfulness at Headspace,,mental-health,,,,,,,https://www.headspace.com/ny,
+247,Free mental health comic book,,mental-health,,,,,,,https://drive.google.com/drive/folders/1UBNsa95Cwxw-qUo1ktDBjagJM_YKEhXs,
+248,"Emotional, spiritual and physical well-being resource guide",,mental-health,,,,,,,https://www.instagram.com/p/B-sgoyxHi9C/,
+249,Guided Meditation - Chinese,,mental-health,,,,,,,https://youtu.be/fONClkXwHbA,
+250,Guided Meditation - Spanish,,mental-health,,,,,,,https://youtu.be/SDycF-0aBWc,
+251,Guided Meditation - English,,mental-health,,,,,,,https://youtu.be/sJH6_ZbgeWQ,
+252,Brown Girl Recovery healing circle,,mental-health,,,,,,,https://docs.google.com/forms/d/e/1FAIpQLSdr3rAlzRG09ip-vAcXXhXxk-_MbqUpATqJt-U1b6xdkRm58Q/viewform,
+253,Brown Girl Recovery the Bronx heals itself community meeting,,mental-health,,,,,,,https://www.instagram.com/p/B-5l9UJgTIC/,
+254,Covid19 Parenting support tips,,mental-health,,,,,,,https://www.instagram.com/p/B--nr8kgYKo/,
+255,A Guide to Providing Mental Health Services to Immigrants Impacted by Changes to DACA and the COVID-19 Pandemic,,mental-health,,,,,,,https://www.informedimmigrant.com/guides/daca-mental-health-providers/#,
+256,Ayana Therapy: online therapy for marginalized and intersectional communities. ,,mental-health,,,,,,,https://www.ayanatherapy.com/,
+257,Therapy for Latinx Database,,mental-health,,,,,,,https://www.therapyforlatinx.com/,
+258,Latinx therapists action network,,mental-health,,,,,,,https://www.latinxtherapistsactionnetwork.org/home,
+259,National queer and trans therapists of color network ,,mental-health,,,,,,,https://www.nqttcn.com/,
+260,"Kink, Poly, Trans & LGBQ Affirmative Providers",,mental-health,,,,,,,https://www.manhattanalternative.com/?fwp_cat=p-sliding-scale,
+261,Lighthouse LGBTQ providers in NYC,,mental-health,,,,,,,https://www.lighthouse.lgbt/,
+262,Grief counseling with Taz,,mental-health,,,,,,,https://acusimple.com/access/4339/#/appointments/4339/schedule/105632/,
+263,"Ethel's Club two free, one hour virtual group healing & grieving sessions *open to* Black people ",,mental-health,,,,,,,https://calendly.com/ethels-club/healing-grieving-group-poc-session?month=2020-06,
+264,Caribbean LGBTQ immigrant support groups biweekly meetings,,mental-health,,,,,,,https://www.instagram.com/p/CAYXeWXhBOw/?igshid=deygp1gw1md8,
+265,Fact Sheet: Pediatric Multisystem Inflammatory Syndrome ,,exercise,mental-health,,,,,,https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-pmis.pdf,
+266,Planned Parenthood birth control telehealth,,exercise,mental-health,,,,,,https://www.plannedparenthood.org/get-care/get-care-online,
+267,YMCA Virtual Workouts for Free,,exercise,mental-health,,,,,,https://www.ymcasd.org/about-y/news-center/general-health-membership-miscellaneous/virtual-membership-work-out-anywhere-anytime,
+268,Video simple workouts you can do at home,,exercise,mental-health,,,,,,https://www.instagram.com/p/B99_jG4Frcu/,
+269,Free CORE Power Yoga ,,exercise,mental-health,,,,,,https://www.corepoweryogaondemand.com/keep-up-your-practice,
+270,Project Street Beat Mobile Health Center ,,exercise,mental-health,,,,,,https://www.plannedparenthood.org/planned-parenthood-greater-new-york/get-care/mobile-health-centers/project-street-beat,
+271,Virtual fitness class,,exercise,mental-health,,,,,,https://www.instagram.com/p/B-7RUgSg_rx/?igshid=t2aj8ep6eh0k,
+272,Stretching for relaxation ,,exercise,mental-health,,,,,,https://www.instagram.com/p/B--XsGZAMwKbbjJXdiQv6t2PVc9_w0uv1qryrE0/,
+273,Free face masks in Brooklyn and East Harlem,,exercise,mental-health,,,,,,https://www.instagram.com/p/B-_6zHPgc-m/,
+274,Virtual yoga for kids,,exercise,mental-health,,,,,,https://www.instagram.com/p/B_FrNBUJgOj/,
+275,NYC Burial Assistance,,death-care,,,,929-252-7731,BurialServices@hra.nyc.gov,,https://www1.nyc.gov/site/hra/help/burial-assistance.page?fbclid=IwAR2m2heC8urbWqvndxEAxUIFHp-_WyW5YXRIl628ANOjY2cN2P2B8JlvqLA,
+276,NYC Funeral planning guide ,,death-care,,,,,,,https://www1.nyc.gov/assets/dca/downloads/pdf/consumers/Consumers-Funeral-Planning-Guide.pdf,
+277,Español Consulado General de México en Nueva York: Traslado de restos,,death-care,,,,,,,https://www.facebook.com/consulmexnuevayork/photos/a.245586338813914/2955915717780949/?type=3&theater,
+278,Death care guide for NYC,,death-care,,,,,,,https://docs.google.com/document/u/0/d/1-rlwskO7_F8FCs5BoZqabAwNtVPLTG0au_S5o3AKCcg/mobilebasic,
+279,NYC Funeral Financial Assistance,,death-care,,,,,,,https://portal.311.nyc.gov/article/?kanumber=KA-01549&fbclid=IwAR1B0qJw46sZgFv8O6zJmzyTt-DVioZmVkPvrIXZTGDghqlyp4zA0o6wVDg,
+280,12 Museums offering free tours,,arts,,,,,,,https://www.travelandleisure.com/attractions/museums-galleries/museums-with-virtual-tours,
+281,Met Opera Free Nightly Streams,,arts,,,,,,,https://www.metopera.org/,
+282,Free coloring pages,,arts,,,,,,,https://www.lauralvarez.com/download.html,
+283,Free coloring pages by M,,arts,,,,,,,https://www.instagram.com/p/B92j1gvAgP6/,
+284,New York Public Library resources,,arts,,,,,,,http://view.email.nypl.org/?qs=5790c071497154113bee74a5bceaf8876743ef1a6746a24298b5a6aa5a1d35d9bd144c975a01bbca863c959ab0509b886fe358cc633dbf59fb7284de3e55b04d58f6159c0a68a52171d0134d60c0a6ad,
+285,Free creative classes with Brit + Co all March,,arts,,,,,,,https://www.instagram.com/p/B92RLmyAXZn/,
+286,Free ‘stay at home self care’ coloring book,,arts,,,,,,,https://selfcareisforeveryone.com/pages/free-resource-signup-page,
+287,Free coloring book by Catherine Willett,,arts,,,,,,,https://www.catherinewillett.com/buy/coloringbook,
+288,Free Bad Bunny coloring pages,,arts,,,,,,,https://www.sailordgonzales.com/fashion-portfolio,
+289,Dominican Writers Online writing class,,arts,,,,,,,https://www.dominicanwriters.com/writing-workshops,
+290,Free instagram live embroidery class,,arts,,,,,,,https://www.instagram.com/p/B-S61cBgN8X/,
+291,Instagram art lesson with LoveWithJoyArt,,arts,,,,,,,https://www.instagram.com/lovewithjoyart/?hl=en,
+292,IG Live art class with A1Art_,,arts,,,,,,,https://www.instagram.com/a1art_/,
+293,Live poetry reading with afro-mexican poets Ariana and Alan,,arts,,,,,,,https://www.instagram.com/p/B-xbtmbAHQt/,
+294,TFAC art live demos,,arts,,,,,,,https://www.instagram.com/tfacna/?hl=en,
+295,Covid19 community care zine,,arts,,,,,,,https://www.instagram.com/micklikestype/?hl=en,
+296,The point cdc free virtual photography classes,,arts,,,,,,,https://www.instagram.com/p/B--NHJClwtC/,
+297,Zine submissions beyond borders with Otros Dreams en Accion,,arts,,,,,,,https://www.instagram.com/p/B_THhUWD854/?utm_source=ig_web_copy_link,
+298,Call for artists paid opportunity,,arts,,,,,,,http://avenue50studio.org/,

@@ -50,6 +50,15 @@ That hard work was done by members of Brooklyn Shows Love, and some other commun
 
 You should donate to them!
 
-# The End
+## Clone this app!
 
-Let me know if you have any comments / suggestions!
+If you have ideas to improve BSL, by all means, fork the repo.
+
+If you want to work with a local copy, doing so couldn't be simpler. Just clone the repo onto your local machine, and get typin'.
+
+If, however, you prefer to just monkey around with the data, I have you covered.
+
+- As a <a href = "https://github.com/seinwave/bsl-resources/blob/ad7493184a8a3286922473f4c7468283ed94a2c5/data/nyc-resources.json">JSON</a>
+
+Enjoy!
+
